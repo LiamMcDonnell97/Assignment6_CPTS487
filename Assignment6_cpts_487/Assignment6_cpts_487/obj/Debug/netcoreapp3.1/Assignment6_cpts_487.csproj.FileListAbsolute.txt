@@ -1,0 +1,13 @@
+C:\Users\Liam McDonnell\Desktop\Assignment6_cpts_487\Assignment6_cpts_487\bin\Debug\netcoreapp3.1\Assignment6_cpts_487.exe
+C:\Users\Liam McDonnell\Desktop\Assignment6_cpts_487\Assignment6_cpts_487\bin\Debug\netcoreapp3.1\Assignment6_cpts_487.deps.json
+C:\Users\Liam McDonnell\Desktop\Assignment6_cpts_487\Assignment6_cpts_487\bin\Debug\netcoreapp3.1\Assignment6_cpts_487.runtimeconfig.json
+C:\Users\Liam McDonnell\Desktop\Assignment6_cpts_487\Assignment6_cpts_487\bin\Debug\netcoreapp3.1\Assignment6_cpts_487.runtimeconfig.dev.json
+C:\Users\Liam McDonnell\Desktop\Assignment6_cpts_487\Assignment6_cpts_487\bin\Debug\netcoreapp3.1\Assignment6_cpts_487.dll
+C:\Users\Liam McDonnell\Desktop\Assignment6_cpts_487\Assignment6_cpts_487\bin\Debug\netcoreapp3.1\Assignment6_cpts_487.pdb
+C:\Users\Liam McDonnell\Desktop\Assignment6_cpts_487\Assignment6_cpts_487\obj\Debug\netcoreapp3.1\Assignment6_cpts_487.csprojAssemblyReference.cache
+C:\Users\Liam McDonnell\Desktop\Assignment6_cpts_487\Assignment6_cpts_487\obj\Debug\netcoreapp3.1\Assignment6_cpts_487.AssemblyInfoInputs.cache
+C:\Users\Liam McDonnell\Desktop\Assignment6_cpts_487\Assignment6_cpts_487\obj\Debug\netcoreapp3.1\Assignment6_cpts_487.AssemblyInfo.cs
+C:\Users\Liam McDonnell\Desktop\Assignment6_cpts_487\Assignment6_cpts_487\obj\Debug\netcoreapp3.1\Assignment6_cpts_487.csproj.CoreCompileInputs.cache
+C:\Users\Liam McDonnell\Desktop\Assignment6_cpts_487\Assignment6_cpts_487\obj\Debug\netcoreapp3.1\Assignment6_cpts_487.dll
+C:\Users\Liam McDonnell\Desktop\Assignment6_cpts_487\Assignment6_cpts_487\obj\Debug\netcoreapp3.1\Assignment6_cpts_487.pdb
+C:\Users\Liam McDonnell\Desktop\Assignment6_cpts_487\Assignment6_cpts_487\obj\Debug\netcoreapp3.1\Assignment6_cpts_487.genruntimeconfig.cache
